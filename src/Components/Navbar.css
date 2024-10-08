@@ -1,0 +1,48 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo BiLogoJoomla{
+    width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    list-style: none;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.nav-links li{
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
+.loginsignup{
+    display: flex;
+    justify-content: space-around;
+}
+
+.login{
+    display: flex;
+    justify-content: space-around;
+    right: 3px;
+}
+
+.signup{
+    display: flex;
+    background-color: #2bcb8b;}

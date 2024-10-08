@@ -1,0 +1,10 @@
+.Footer{
+    justify-content: space-around;
+    display: flex;
+    background-color: #263238;
+}
+
+.logos{
+    display: flex;
+    justify-content: center;
+}
